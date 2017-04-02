@@ -5,5 +5,7 @@ Workshop Javascript 1 (Maret - April 2017).
   
   Waktu     : 18 maret - 2 april 2017 ( Sabtu - Minggu ).
   
+  Tempat    : DILO BANDA ACEH
+  
   ...
   
